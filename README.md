@@ -51,3 +51,10 @@ I focus on designing solutions that are **smart, patient-centric, and ready for 
 
 ### 🎨 UI/UX & Design  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+
+---
+## 📊 GitHub & LeetCode Activity
+
+![Joshika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joshikasri28&show_icons=true&theme=radical)
+![LeetCode Stats](https://leetcard.jacoblin.cool/joshikasrim/?theme=light&font=Karma&ext=heatmap)
+
