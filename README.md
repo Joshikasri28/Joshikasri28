@@ -53,8 +53,22 @@ I focus on designing solutions that are **smart, patient-centric, and ready for 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
 
 ---
-## 📊 GitHub & LeetCode Activity
+## 📈 GitHub & LeetCode Activity
 
-![Joshika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joshikasri28&show_icons=true&theme=radical)
-![LeetCode Stats](https://leetcard.jacoblin.cool/joshikasrim?theme=dark&font=baloo&ext=heatmap)
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Joshikasri28&show_icons=true&theme=radical" height="200">
+  
+  <!-- LeetCode Stats -->
+  <img src="https://leetcard.jacoblin.cool/joshikasrim?theme=dark&font=baloo&ext=heatmap" height="200">
+</p>
 
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshikasri28&layout=compact&theme=radical&langs_count=6" height="200">
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joshikasri28&theme=radical&hide_border=false" height="200">
+</p>
