@@ -56,5 +56,5 @@ I focus on designing solutions that are **smart, patient-centric, and ready for 
 ## 📊 GitHub & LeetCode Activity
 
 ![Joshika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joshikasri28&show_icons=true&theme=radical)
-![LeetCode Stats](https://leetcard.jacoblin.cool/joshikasrim/?theme=light&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/joshikasrim?theme=dark&font=baloo&ext=heatmap)
 
