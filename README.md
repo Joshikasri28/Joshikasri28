@@ -1,5 +1,5 @@
 <div align="center">
-<img height="22">
+<img height="20">
 
 # 👋 Hello, I'm Joshika Sri M  
 **AI/ML Developer | Neurotechnology Enthusiast | Medical AI Innovator**  
