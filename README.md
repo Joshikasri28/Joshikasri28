@@ -19,4 +19,15 @@ I focus on designing solutions that are **smart, patient-centric, and ready for 
 - 🧠 Working on projects involving **Brain-Computer Interfaces (BCI)**, **EEG/ECG Signal Processing**, and **Medical Diagnostics**  
 - ⚙️ Tech interests include: **Medical AI, Neuro-robotics, AI in Medical Imaging, Real-Time Health Monitoring**  
 - 🔍 Enthusiastic about applying **Machine Learning** to **Healthcare Automation, Diagnosis Assistance, and Clinical Decision Support**  
-- 📌 Striving to combine **AI innovation with medical science** to create impactful technologies that **save lives**  
+- 📌 Striving to combine **AI innovation with medical science** to create impactful technologies that **save lives**
+-  📄 Presented Research Paper – *AI-Powered Smart Agriculture* at AIESFS-2025 National Conference
+
+## 🧠 Focus Areas  
+
+- 🔬 Developing **AI-powered healthcare systems** for medical diagnostics and patient monitoring  
+- 🧪 Processing and analyzing **EEG/ECG biomedical signals** for Brain-Computer Interface (BCI) applications  
+- 🩺 Building **real-time disease prediction models** using TensorFlow, Scikit-learn, and Deep Learning architectures  
+- 🖥️ Designing **intelligent computer vision systems** for medical imaging and wildlife monitoring using OpenCV & YOLOv5  
+- ☁️ Deploying scalable AI solutions with **Flask, Streamlit, and AWS Cloud** for real-world healthcare use cases  
+- 🔍 Exploring **Neuro-robotics and applied machine learning** for rehabilitation and assistive technology  
+
