@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRtMDF6YWhhZDJycGN2ZDR2eGFkenlyeHlnbXM1bWRuZHBxMmc5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j6qnywnl0m6iFAM3Re/giphy.gif" width="600">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRtMDF6YWhhZDJycGN2ZDR2eGFkenlyeHlnbXM1bWRuZHBxMmc5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j6qnywnl0m6iFAM3Re/giphy.gif" width="1000">
 </p>
-
-
 
 <div align="center">
 <img height="20">
 
+---
 # 👋 Hello, I'm Joshika Sri M  
 **AI/ML Developer | Neurotechnology Enthusiast | Medical AI Innovator**  
 
