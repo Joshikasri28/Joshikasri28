@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.wixstatic.com/media/d7196d_9dc4f5b591b0458e8b935e3085b64355~mv2.gif" width="800">
+  <img src="https://media1.tenor.com/m/em0Q7ktSXY8AAAAd/spiderman-hi.gif" width="800">
 </p>
 
 <div align="center">
