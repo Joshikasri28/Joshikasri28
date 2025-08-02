@@ -30,7 +30,6 @@ I focus on designing solutions that are **smart, patient-centric, and ready for 
 - 🖥️ Designing **intelligent computer vision systems** for medical imaging and wildlife monitoring using OpenCV & YOLOv5  
 - ☁️ Deploying scalable AI solutions with **Flask, Streamlit, and AWS Cloud** for real-world healthcare use cases  
 - 🔍 Exploring **Neuro-robotics and applied machine learning** for rehabilitation and assistive technology  
-
 ## 🛠️ Tools & Technologies  
 
 ### 🖥️ Languages & Frameworks  
@@ -49,4 +48,6 @@ I focus on designing solutions that are **smart, patient-centric, and ready for 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🎨 UI/UX & Design  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
