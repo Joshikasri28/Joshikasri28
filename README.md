@@ -20,9 +20,9 @@ I focus on designing solutions that are **smart, patient-centric, and ready for 
 - ⚙️ Tech interests include: **Medical AI, Neuro-robotics, AI in Medical Imaging, Real-Time Health Monitoring**  
 - 🔍 Enthusiastic about applying **Machine Learning** to **Healthcare Automation, Diagnosis Assistance, and Clinical Decision Support**  
 - 📌 Striving to combine **AI innovation with medical science** to create impactful technologies that **save lives**
--  📄 Presented Research Paper – *AI-Powered Smart Agriculture* at AIESFS-2025 National Conference
+- 📄 Presented Research Paper – *AI-Powered Smart Agriculture* at AIESFS-2025 National Conference
 
-## 🧠 Focus Areas  
+## ⚙️ Focus Areas  
 
 - 🔬 Developing **AI-powered healthcare systems** for medical diagnostics and patient monitoring  
 - 🧪 Processing and analyzing **EEG/ECG biomedical signals** for Brain-Computer Interface (BCI) applications  
