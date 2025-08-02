@@ -79,4 +79,6 @@ I focus on designing solutions that are **smart, patient-centric, and ready for 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joshikasrim/) 
 [![Gmail](https://img.shields.io/badge/Gmail-EMAIL%20ME-red?style=for-the-badge&logo=gmail)](mailto:joshikasrii@gmail.com) 
 [![Discord](https://img.shields.io/badge/Discord-JOSHIKA%235253-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/YOUR_DISCORD_ID) 
-[![Instagram](https://img.shields.io/badge/Instagram-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yoochwita)
+
+---
