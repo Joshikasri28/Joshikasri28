@@ -4,7 +4,7 @@
 **AI/ML Developer | Neurotechnology Enthusiast | Medical AI Innovator**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joshikasrim/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:joshikasrii28@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
 
 </div>
