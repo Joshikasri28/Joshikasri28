@@ -1,13 +1,20 @@
-- 👋 Hello, I'M Joshika Sri M.
+# 👋 Hello, I'm Joshika Sri M  
 
-- ## 🧬 About Me  
-I'm a developer passionate about building **AI-powered healthcare and neurotechnology solutions** that bridge the gap between medicine and machine intelligence.  
-With a strong foundation in **Artificial Intelligence, Machine Learning, and Healthcare Technology**,  
-I focus on creating systems that are **smart, reliable, patient‑centric, and ready for real‑world impact**.  
+**AI/ML Developer | Neurotechnology Enthusiast | Medical AI Innovator**  
 
-🎓 Artificial Intelligence & Data Science Undergraduate at KGiSL Institute of Technology (2022–2026)  
-💼 Working on healthcare AI projects that tackle challenges in **disease prediction, brain‑computer interfaces, and medical diagnostics**  
-⚙️ Tech interests include: **Medical AI, EEG/ECG Signal Processing, AI in Medical Imaging, Real‑time Health Monitoring Systems**  
-🔍 Enthusiastic about exploring **Neuro‑robotics, Applied Machine Learning in Healthcare, and AI‑assisted Clinical Decision Support**  
-📌 Striving to **blend AI innovation with medical science** to create technologies that can **improve patient care and save lives**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
 
+---
+
+## 🧬 About Me  
+I'm a developer passionate about building **AI-powered healthcare and neurotechnology systems** that bridge medicine with machine intelligence.  
+With a foundation in **Artificial Intelligence, Machine Learning, and Healthcare Technology**,  
+I focus on designing solutions that are **smart, patient-centric, and ready for real-world healthcare challenges**.  
+
+- 🩺 **AI & Data Science Undergraduate** at KGiSL Institute of Technology (2022–2026)  
+- 🧠 Working on projects involving **Brain-Computer Interfaces (BCI)**, **EEG/ECG Signal Processing**, and **Medical Diagnostics**  
+- ⚙️ Tech interests include: **Medical AI, Neuro-robotics, AI in Medical Imaging, Real-Time Health Monitoring**  
+- 🔍 Enthusiastic about applying **Machine Learning** to **Healthcare Automation, Diagnosis Assistance, and Clinical Decision Support**  
+- 📌 Striving to combine **AI innovation with medical science** to create impactful technologies that **save lives**  
