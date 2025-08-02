@@ -1,7 +1,7 @@
-
-
-  <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJ4eWR3cHk3dmFya2VzZ3g1Yzc1cXk0eW55cjBpNzIyN3I4bXk2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fbHqxBmYngB1U9GTt9/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExam44NDBwNGxtMDdzaHcyYTkyNWI2aG94cXhucHd6dWNvaDZqZm9zMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j6qnywnl0m6iFAM3Re/giphy.gif)" width="800">
+<p align="center">
+  <img src="https://giphy.com/gifs/SpiderVerseMovie-spiderman-spider-man-spider-verse-j6qnywnl0m6iFAM3Re" width="600">
 </p>
+
 
 
 <div align="center">
