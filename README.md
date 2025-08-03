@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/1c1p.gif" width="800">
+  <img src="https://tenor.com/en-GB/view/spiderman-hi-fellas-waving-hello-gif-12642373" width="1000">
 </p>
 
 <div align="center">
