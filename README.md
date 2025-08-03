@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://tenor.com/en-GB/view/spiderman-hi-fellas-waving-hello-gif-12642373" width="1000">
+  <img src="https://media.tenor.com/images/abcd1234efgh5678/spiderman-hi.gif" width="1000">
 </p>
+
 
 <div align="center">
 <img height="20">
