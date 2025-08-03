@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[./spiderman-hi.gif](https://media.tenor.com/em0Q7ktSXY8AAAAM/spiderman-hi.gif)" width="1000">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd2YXRxaGx0ZTg5M3VldWNjMWRob2gwN3FpOHU3NW5kNzdwbHgzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LFay0DyV6urKw/giphy.gif" width="1000">
   <img src="" width="1000">
 </p>
 
